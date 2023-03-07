@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931846110314",
+    "project_id": "noupu-b82cd",
+    "storage_bucket": "noupu-b82cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931846110314:android:2c08d7438569795ac3de13",
+        "android_client_info": {
+          "package_name": "com.sunrule.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931846110314-8a062pooa68v66oev04ci49oh5v2600r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8KbBq1nNcO-HRLuYvqV91fb868jeUis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931846110314-8a062pooa68v66oev04ci49oh5v2600r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
